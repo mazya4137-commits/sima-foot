@@ -1,0 +1,2 @@
+# sima-foot
+online magazine
